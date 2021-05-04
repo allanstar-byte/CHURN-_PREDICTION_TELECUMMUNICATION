@@ -1,4 +1,4 @@
-# CHURN-_PREDICTION_TELECUMMUNICATION
+# CHURN-_PREDICTION_TELECOMMUNICATION
 
 The main concern here is to build models to predict churn. The predictive model that that will serve two purposes:
 
